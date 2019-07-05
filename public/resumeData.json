@@ -86,32 +86,40 @@
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"Yigit Alparslan",
+        "position":"President, Founder",
+        "image":"yigit.jpg",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Alex Fennell",
+        "position":"Vice-President",
+        "image":"yigit.jpg",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"Allie Do",
+        "position":"Chair of Finances",
+        "image":"yigit.jpg",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"Yavuz Genel",
+        "position":"Chair of Marketing & Outreach",
+        "image":"yigit.jpg",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Tyr Zong",
+        "position":"Secretary",
+        "image":"yigit.jpg",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Matthew Burlick",
+        "position":"Advisor",
+        "image":"yigit.jpg",
         "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },

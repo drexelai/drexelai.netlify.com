@@ -3,7 +3,7 @@
     "name":"Drexel AI",
     "occupation":"Academic Research Club",
     "description":"We promote machine learning techniques and help Dragons get familiar with Artificial Intelligence",
-    "image":"profilepic.jpg",
+    "image":"logo.jpg",
     "bio":"Drexel AI seeks to help Dragons get familiar with Artificial Intelligence and Machine Learning fields. AI is evolving quickly. People who manage to stay familiar with the cutting-edge technology of AI has simply more advantage in today's world. Drexel AI aims to promote the power of this field, and help Dragons have such advantage.",
     "contactmessage":"Contact us for any questions you might have",
     "email": "yigitcan.alparslan@drexel.edu",
@@ -19,7 +19,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -29,22 +29,22 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com",
         "className":"fa fa-github"
       },
       {
@@ -94,13 +94,13 @@
       {
         "name":"Alex Fennell",
         "position":"Vice-President",
-        "image":"yigit.jpg",
+        "image":"alex.jpg",
         "level":"55%"
       },
       {
         "name":"Allie Do",
         "position":"Chair of Finance",
-        "image":"yigit.jpg",
+        "image":"allie.jpg",
         "level":"50%"
       },
       {
@@ -112,7 +112,7 @@
       {
         "name":"Tyr Zong",
         "position":"Secretary",
-        "image":"yigit.jpg",
+        "image":"tyr.jpg",
         "level":"80%"
       },
       {
@@ -126,46 +126,17 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"New Projects Coming Soon",
+        "category":"Stay Tuned",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
+        "url":"https://dragonlink.drexel.edu/engage/organization/drexelai"
+      }    ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Drexel AI goals and team meeting times will be published here.",
+        "user":"Drexel AI e-board members"
       }
     ]
   }

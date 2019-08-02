@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ya332.github.io/drexel-ai/",
+  "homepage": "https://ya332.github.io/drexel-ai/public",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "jquery": "^3.2.1",

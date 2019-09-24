@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Drexel AI",
+    "occupation":"Academic Research Club",
+    "description":"We promote machine learning techniques and help Dragons get familiar with Artificial Intelligence",
+    "image":"logo.jpg",
+    "bio":"Drexel AI seeks to help Dragons get familiar with Artificial Intelligence and Machine Learning fields. AI is evolving quickly. People who manage to stay familiar with the cutting-edge technology of AI has simply more advantage in today's world. Drexel AI aims to promote the power of this field, and help Dragons have such advantage.",
+    "contactmessage":"Contact us for any questions you might have",
+    "email": "yigitcan.alparslan@drexel.edu",
+    "phone": "",
+    "address":{
+      "street":"3210 Chestnut Street",
+      "city":"Philadelphia",
+      "state":"PA",
+      "zip": "19104"
+    },
+    "website": "https://dragonlink.drexel.edu/engage/organization/drexelai",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Yigit Alparslan",
+        "position":"President, Founder",
+        "image":"yigit.jpg",
+        "level":"60%"
+      },
+      {
+        "name":"Alex Fennell",
+        "position":"Vice-President",
+        "image":"alex.jpg",
+        "level":"55%"
+      },
+      {
+        "name":"Allie Do",
+        "position":"Chair of Finance",
+        "image":"allie.jpg",
+        "level":"50%"
+      },
+      {
+        "name":"Yavuz Genel",
+        "position":"Chair of Marketing & Outreach",
+        "image":"yigit.jpg",
+        "level":"90%"
+      },
+      {
+        "name":"Tyr Zong",
+        "position":"Secretary",
+        "image":"tyr.jpg",
+        "level":"80%"
+      },
+      {
+        "name":"Matthew Burlick",
+        "position":"Advisor",
+        "image":"yigit.jpg",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"New Projects Coming Soon",
+        "category":"Stay Tuned",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://dragonlink.drexel.edu/engage/organization/drexelai"
+      }    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Drexel AI goals and team meeting times will be published here.",
+        "user":"Drexel AI e-board members"
+      }
+    ]
+  }
+}

@@ -12,7 +12,7 @@ import Portfolio from './Components/Portfolio';
 
 class App extends Component {
 
-  constructor(props){
+  constructor(props) {
     super(props);
     this.state = {
       foo: 'bar',
@@ -24,35 +24,35 @@ class App extends Component {
 
   }
 
-  getClubData(){
+  getClubData() {
     $.ajax({
-      url:'/clubData.json',
-      dataType:'json',
+      url: '/clubData.json',
+      dataType: 'json',
       cache: false,
-      success: function(data){
-        this.setState({clubData: data});
+      success: function (data) {
+        this.setState({ clubData: data });
       }.bind(this),
-      error: function(xhr, status, err){
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
       }
     });
   }
 
-  componentDidMount(){
+  componentDidMount() {
     this.getClubData();
   }
 
   render() {
     return (
       <div className="App">
-        <Header data={this.state.clubData.main}/>
-        <About data={this.state.clubData.main}/>
-        <Resume data={this.state.clubData.resume}/>
-        <Portfolio data={this.state.clubData.portfolio}/>
-        <Testimonials data={this.state.clubData.testimonials}/>
-        <Contact data={this.state.clubData.main}/>
-        <Footer data={this.state.clubData.main}/>
+        <Header data={this.state.clubData.main} />
+        <About data={this.state.clubData.main} />
+        <Resume data={this.state.clubData.resume} />
+        <Portfolio data={this.state.clubData.portfolio} />
+        <Testimonials data={this.state.clubData.testimonials} />
+        <Contact data={this.state.clubData.main} />
+        <Footer data={this.state.clubData.main} />
       </div>
     );
   }

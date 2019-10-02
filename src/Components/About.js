@@ -36,6 +36,14 @@ class About extends Component {
                            <span>{phone}</span><br />
                            <span>{email}</span>
                         </p>
+                        <h2>Important Links</h2>
+                        <p>
+                           <span>Join Slack: <a href="bit.ly/drexel-ai">bit.ly/drexel-ai</a></span><br />
+                           <span>Check out our code on <a href="https://github.com/drexelai">GitHub</a></span><br/>
+                           <span>Be a member on <a href="https://dragonlink.drexel.edu/engage/organization/drexelai">Dragonlink</a></span><br/>
+                           <span>Sign up for our ongoing projects <a href="https://bit.ly/ongoing-ai-projects">projects</a></span><br/>
+                           <span>Be a Mentor/Mentee to teach/learn<a href="https://forms.gle/CevEZGHuixvBHsBR9"> here</a><br/></span><br/>
+                        </p>
                      </div>
 
                   </div>

@@ -120,16 +120,28 @@
         "position":"Advisor",
         "image":"matt.jpg",
         "level":"50%"
+      },
+      {
+        "name":"Red Nur",
+        "position":"System Architect",
+        "image":"red.jpg",
+        "level":"50%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"New Projects Coming Soon",
-        "category":"Stay Tuned",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://dragonlink.drexel.edu/engage/organization/drexelai"
+        "title":"ISSS ChatBot",
+        "category":"NLP & TensorFlow",
+        "image":"isss-chatbot-thumb.jpg",
+        "url":"https://github.com/drexelai/isss-chatbot"
+      },
+      {
+        "title":"Food Image Classifier for Efficient Refund Process",
+        "category":"TensorFlow, Neural Network",
+        "image":"picnic-thumb.jpg",
+        "url":"https://github.com/drexelai/Picnic-Hackathon"
       }    ]
   },
   "testimonials":{

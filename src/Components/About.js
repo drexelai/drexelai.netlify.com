@@ -38,11 +38,11 @@ class About extends Component {
                         </p>
                         <h2>Important Links</h2>
                         <p>
-                           <span>Join Our Slack Workspace <a href="https://bit.ly/drexel-ai" target="_blank">Here</a></span><br />
+                           <span>Join Our Slack Workspace <a href="https://bit.ly/drexel-ai" target="_blank">Here</a></span><br/>
                            <span>Check out our code on <a href="https://github.com/drexelai" target="_blank">GitHub</a></span><br/>
                            <span>Be a member on <a href="https://dragonlink.drexel.edu/engage/organization/drexelai" target="_blank">Dragonlink</a></span><br/>
                            <span>Sign up for our ongoing <a href="https://bit.ly/ongoing-ai-projects" target="_blank">projects</a></span><br/>
-                           <span>Be a Mentor/Mentee to teach/learn <a href="https://forms.gle/CevEZGHuixvBHsBR9" target="_blank"> here</a></span>
+                           <span>Be a Mentor/Mentee to teach/learn <a href="https://forms.gle/CevEZGHuixvBHsBR9" target="_blank">here</a></span>
                         </p>
                      </div>
 

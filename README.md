@@ -9,8 +9,7 @@ This is a ReactJS based website. I have built this by following a Udemy course (
 `$ npm start`
 
 ## Deploy to production
-`$ npm run build`
-This will create a build folder in the root level.
+Merging to master branch will trigger the netlify.com pipeline. There is a pipeline created on netlify.com to grab the pushed code and run 'npm run build'. It is important that master code is kept clean and bug-free to keep the website alive.
 
 ## Credits
 ##### Udemy Course

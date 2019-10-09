@@ -66,7 +66,8 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   /* color: #A8A8A8; */
+   color: #EBEEEE;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -203,7 +204,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #A1A1A1;
 }
 #about .profile-pic {
    position: relative;
@@ -797,7 +798,8 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   /* color: #636363; */
+   color: #A1A1A1;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -946,12 +948,14 @@ footer a:hover, footer a:focus { color: #fff; }
 footer .copyright {
     margin: 0;
     padding: 0;
+    color: #fff;
  }
-footer .copyright li {
+footer .copyright li a {
     display: inline-block;
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color: #fff;
 }
 .ie footer .copyright li {
    display: inline;

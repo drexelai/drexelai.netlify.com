@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2017 Yigit Alparslan</li>
-              <li>Designed by <a className="smoothscroll" title="Back to Top" href="#home">Drexel AI</a></li>
+              <li>&copy; Copyright 2019 Drexel AI</li>
+              <li>Designed by <a className="smoothscroll" title="Back to Top" href="#home">Drexel AI Members</a></li>
            </ul>
 
         </div>

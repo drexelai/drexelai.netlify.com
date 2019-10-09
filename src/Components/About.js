@@ -33,7 +33,7 @@ class About extends Component {
                            <span>{street}<br />
                               {city} {state}, {zip}
                            </span><br />
-                           <span>{phone}</span><br />
+                           <span>Yigit Alparslan</span><br />
                            <span>{email}</span>
                         </p>
                         <h2>Important Links</h2>

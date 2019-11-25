@@ -29,7 +29,7 @@ class Portfolio extends Component {
         <div className="row">
           <div className="twelve columns collapsed">
             <h1>OUR PROJECTS</h1>
-            <h1>Visit our GitHub profile<a href="https://github.com/drexelai" target="_blank"> page</a> to see our ongoing projects.</h1>
+            <h1>Visit our GitHub profile<a href="https://github.com/drexelai" target="_blank" rel="noopener noreferrer"> page</a> to see our ongoing projects.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}
             </div>

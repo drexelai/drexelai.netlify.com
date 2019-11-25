@@ -24,4 +24,3 @@ Merging to master branch will trigger the netlify.com pipeline. There is a pipel
 ##### Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
 
-permalink: /index.html

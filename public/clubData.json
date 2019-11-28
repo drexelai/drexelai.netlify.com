@@ -114,24 +114,6 @@
         "position":"Drexel University & IBM",
         "image":"das.jpg",
         "level":"50%"
-      },
-      {
-        "name":"Dr. Santiago Ontanon",
-        "position":"Drexel University & Google",
-        "image":"santi.jpg",
-        "level":"50%"
-      },
-      {
-        "name":"Dr. Edward Kim",
-        "position":"Drexel University & SPARSE LAB",
-        "image":"kim.jpg",
-        "level":"50%"
-      },
-      {
-        "name":"Dr. Dario Salvucci",
-        "position":"Drexel University",
-        "image":"salvucci.jpg",
-        "level":"50%"
       }
     ]
   },
@@ -152,13 +134,13 @@
       {
         "title":"Stock Market Predictor",
         "category":"Python",
-        "image":"picnic-thumb.jpg",
+        "image":"stock.jpg",
         "url":"https://github.com/drexelai/Stock-Market"
       },
       {
         "title":"Othello Game AI",
         "category":"Othello",
-        "image":"python.png",
+        "image":"othello.jpg",
         "url":"https://github.com/drexelai/othello-ai"
       }
     ]

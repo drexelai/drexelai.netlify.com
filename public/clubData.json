@@ -139,7 +139,7 @@
     "projects": [
       {
         "title":"ISSS ChatBot",
-        "category":"NLP & TensorFlow",
+        "category":"NLP & TensorFlow & DialogFlow",
         "image":"isss-chatbot-thumb.jpg",
         "url":"https://github.com/drexelai/isss-chatbot"
       },
@@ -148,7 +148,20 @@
         "category":"TensorFlow, Neural Network",
         "image":"picnic-thumb.jpg",
         "url":"https://github.com/drexelai/Picnic-Hackathon"
-      }    ]
+      },
+      {
+        "title":"Stock Market Predictor",
+        "category":"Python",
+        "image":"picnic-thumb.jpg",
+        "url":"https://github.com/drexelai/Stock-Market"
+      },
+      {
+        "title":"Othello Game AI",
+        "category":"Othello",
+        "image":"python.png",
+        "url":"https://github.com/drexelai/othello-ai"
+      }
+    ]
   },
   "testimonials":{
     "testimonials":[

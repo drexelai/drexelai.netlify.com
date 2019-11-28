@@ -34,7 +34,7 @@
       }
     ]
   },
-  "resume":{
+  "team":{
     "skillmessage":"",
     "education":[
       {
@@ -145,8 +145,8 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "meetings":{
+    "meetings":[
       {
         "text":"Drexel AI meets biweekly (even weeks of term) on Thursdays at Ross Commons Room 302 between 6:00 PM and 7:00 PM",
         "user":"Drexel AI e-board members"

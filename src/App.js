@@ -5,9 +5,9 @@ import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
-import Resume from './Components/Resume';
+import Team from './Components/Team';
 import Contact from './Components/Contact';
-import Testimonials from './Components/Testimonials';
+import Meetings from './Components/Meetings';
 import Portfolio from './Components/Portfolio';
 
 class App extends Component {
@@ -48,9 +48,9 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.clubData.main} />
         <About data={this.state.clubData.main} />
-        <Resume data={this.state.clubData.resume} />
+        <Team data={this.state.clubData.team} />
         <Portfolio data={this.state.clubData.portfolio} />
-        <Testimonials data={this.state.clubData.testimonials} />
+        <Meetings data={this.state.clubData.meetings} />
         <Contact data={this.state.clubData.main} />
         <Footer data={this.state.clubData.main} />
       </div>

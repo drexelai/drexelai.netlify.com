@@ -1,19 +1,19 @@
 import React, { Component } from 'react';
 
-class Testimonials extends Component {
+class Meetings extends Component {
    render() {
       if (this.props.data) {
-         var testimonials = this.props.data.testimonials.map(function (testimonials) {
-            return <li key={testimonials.user}>
+         var meetings = this.props.data.meetings.map(function (meetings) {
+            return <li key={meetings.user}>
                <blockquote>
-                  <p>{testimonials.text}</p>
-                  <cite>{testimonials.user}</cite>
+                  <p>{meetings.text}</p>
+                  <cite>{meetings.user}</cite>
                </blockquote>
             </li>
          })
       }
       return (
-         <section id="testimonials">
+         <section id="meetings">
             <div className="text-container">
                <div className="row">
 
@@ -24,7 +24,7 @@ class Testimonials extends Component {
                   <div className="ten columns flex-container">
                      <ul className="slides">
                      <h1>CLUB MEETINGS</h1>
-                        {testimonials}
+                        {meetings}
                      </ul>
                   </div>
                </div>
@@ -34,4 +34,4 @@ class Testimonials extends Component {
    }
 }
 
-export default Testimonials;
+export default Meetings;

@@ -57,18 +57,18 @@
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
 
-   /* Resume Section
+   /* team Section
    ------------------------------------------------------------------- */
-   #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
-   #resume .main-col { padding-right: 5%; }   
+   #team h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #team .main-col { padding-right: 5%; }   
 
-   /* Testimonials Section
+   /* meetings Section
    ------------------------------------------------------------------- */
-   #testimonials .header-col h1:before {
+   #meetings .header-col h1:before {
       font-size: 66px;
       line-height: 66px;
    }
-   #testimonials blockquote p {
+   #meetings blockquote p {
       font-size: 22px;
       line-height: 46px;      
    }
@@ -224,16 +224,16 @@
    #about .main-col { padding-right: 30px; }
 
 
-   /* Resume Section
+   /* team Section
    --------------------------------------------------------------------- */
-   #resume .header-col {
+   #team .header-col {
       padding-top: 0;
       margin-bottom: 48px;
       text-align: center;
    }
-   #resume h1 { letter-spacing: 3px; }
-   #resume .main-col { padding-right: 30px; }
-   #resume h3, #resume .info { text-align: center; }
+   #team h1 { letter-spacing: 3px; }
+   #team .main-col { padding-right: 30px; }
+   #team h3, #team .info { text-align: center; }
       
    .bars { width: 100%; }
 
@@ -258,19 +258,19 @@
    .popup-modal {	max-width: 85%; }
 
 
-   /* Testimonials Section
+   /* meetings Section
    ----------------------------------------------------------------------- */
-   #testimonials .text-container { text-align: center; }
-   #testimonials h1 {
+   #meetings .text-container { text-align: center; }
+   #meetings h1 {
       font: 16px/24px 'opensans-bold', sans-serif;
       text-align: center;
       margin-bottom: 30px;
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }
-   #testimonials h1 span { display: block; }
-   #testimonials .header-col h1:before { content: none; }
-   #testimonials blockquote { padding-bottom: 24px; }
-   #testimonials blockquote p {
+   #meetings h1 span { display: block; }
+   #meetings .header-col h1:before { content: none; }
+   #meetings blockquote { padding-bottom: 24px; }
+   #meetings blockquote p {
       font-size: 20px;
       line-height: 42px;      
    }

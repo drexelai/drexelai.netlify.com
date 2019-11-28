@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Resume extends Component {
+class Team extends Component {
   render() {
 
     if (this.props.data) {
@@ -27,7 +27,7 @@ class Resume extends Component {
     }
 
     return (
-      <section id="resume">
+      <section id="team">
         
         <div className="row skill">
           <div className="three columns header-col">
@@ -55,4 +55,4 @@ class Resume extends Component {
   }
 }
 
-export default Resume;
+export default Team;

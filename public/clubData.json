@@ -105,14 +105,26 @@
     "ambassadors":[
       {
         "name":"Dr. Matthew Burlick",
-        "position":"Drexel Society of Artificial Intelligence Advisor and Ambassador",
+        "position":"Professor at Drexel University & Drexel AI Advisor",
         "image":"matt.jpg",
         "level":"50%"
       },
       {
         "name":"Dr. Anup Kumar Das",
-        "position":"Drexel University & IBM",
-        "image":"das.jpg",
+        "position":"Professor at Drexel University",
+        "image":"anup.jpg",
+        "level":"50%"
+      },
+      {
+        "name":"Dr. Edward Kim",
+        "position":"Professor at Drexel University & SPARSE LAB",
+        "image":"edward.jpg",
+        "level":"50%"
+      },
+      {
+        "name":"Dr. Dario Salvucci",
+        "position":"Professor at Drexel University",
+        "image":"dario.jpg",
         "level":"50%"
       }
     ]

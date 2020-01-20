@@ -9,7 +9,8 @@ import Team from './Components/Team';
 import Contact from './Components/Contact';
 import Meetings from './Components/Meetings';
 import Portfolio from './Components/Portfolio';
-
+import MadeBy from 'react-made-by';
+import FeedBack from 'react-feedback-popup';
 class App extends Component {
 
   constructor(props) {
@@ -53,6 +54,33 @@ class App extends Component {
         <Meetings data={this.state.clubData.meetings} />
         <Contact data={this.state.clubData.main} />
         <Footer data={this.state.clubData.main} />
+        <FeedBack
+                position="left"
+                numberOfStars={5}
+                handleSubmit={(data) => 
+                    fetch('https://formspree.io/moqjznjg', {
+                        headers: {
+                            Accept: 'application/json',
+                            'Content-Type': 'application/json'
+                        },
+                        method: 'POST', // or 'PUT'
+                        body: JSON.stringify(data),
+                    }).then((response) => { 
+                        if (!response.ok) {
+                            return Promise.reject('Our servers are having issues! We couldn\'t send your feedback!');
+                        }
+                        response.json()
+                    }).then(() => {
+                        alert('Success!');
+                    }).catch((error) => {
+                        alert('Our servers are having issues! We couldn\'t send your feedback!', error);
+                    })
+                }
+            />
+            <MadeBy
+                destination="https://github.com/drexelai"
+                text="Made with ☕ by Drexel AI"
+            />
       </div>
     );
   }

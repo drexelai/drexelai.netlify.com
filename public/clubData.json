@@ -72,9 +72,9 @@
         "level":"60%"
       },
       {
-        "name":"Alex Fennell",
-        "position":"Vice-President",
-        "image":"alex.jpg",
+        "name":"Hung Do",
+        "position":"Co Vice-President",
+        "image":"hung.jpg",
         "level":"55%"
       },
       {
@@ -84,22 +84,10 @@
         "level":"50%"
       },
       {
-        "name":"Yavuz Genel",
-        "position":"Co Vice-President, Marketing & Outreach",
-        "image":"yavuz.jpg",
+        "name":"Neel Kumtakar",
+        "position":"Event Coordinator",
+        "image":"neel.png",
         "level":"90%"
-      },
-      {
-        "name":"Tyr Zong",
-        "position":"Secretary",
-        "image":"tyr.jpg",
-        "level":"80%"
-      },
-      {
-        "name":"Red Nur",
-        "position":"System Architect",
-        "image":"red.jpg",
-        "level":"50%"
       }
     ],
     "ambassadors":[
